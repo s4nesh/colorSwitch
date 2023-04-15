@@ -60,7 +60,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1BJ-4m-qPe">
-                                <rect key="frame" x="-70" y="127" width="496" height="261"/>
+                                <rect key="frame" x="-86" y="127" width="550" height="261"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="labelColor"/>
                             </view>
